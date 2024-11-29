@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "я крутой ну очень крутой "
 version = "0.1.0"
-description = ""
+description = "ну я очень крутой "
 authors = ["Zifirka"]
 readme = "README.md"
 
